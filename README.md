@@ -1,5 +1,3 @@
-### 
--
 Hello, on my page 😄,
 
 My name is Dmitry, and I'm from Latvia. 
