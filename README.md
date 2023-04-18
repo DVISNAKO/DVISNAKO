@@ -1,4 +1,4 @@
-Hello, on my page 😄,
+Hello, on my page, 😄
 
 My name is Dmitry, and I'm from Latvia. 
 
