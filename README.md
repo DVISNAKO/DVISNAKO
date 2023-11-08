@@ -14,4 +14,5 @@ I plan to learn React next and add some of my projects in React to my portfolio.
 📫 How to reach me: 
 phone +37129837692;
 email: dmitrijs.visnakovs@inbox.lv
+youtube: https://www.youtube.com/channel/UC6k9viTGfXB5H0aVYAq_eNw
 
