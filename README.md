@@ -12,7 +12,6 @@ I plan to learn React next and add some of my projects in React to my portfolio.
 2023, I plan to dedicate to learning, and in 2024, I aim to secure my first job as a front-end developer.
 
 📫 How to reach me: 
-phone +37129837692;
 email: dmitrijs.visnakovs@inbox.lv
 youtube: https://www.youtube.com/channel/UC6k9viTGfXB5H0aVYAq_eNw
 
